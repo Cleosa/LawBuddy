@@ -34,7 +34,11 @@ class FormController extends Controller
             $request->session()->regenerate();
 
             // Redirect to get-started page after successful login
+<<<<<<< HEAD
             return redirect()->route('homePage')->with('success', 'Berhasil masuk.');
+=======
+            return redirect()->route('getStarted')->with('success', 'Berhasil masuk.');
+>>>>>>> a4a77b3af6d2c5d30105a896be75a68bf9de411b
         }
 
         // If authentication fails

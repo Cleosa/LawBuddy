@@ -18,7 +18,11 @@ Route::controller(FormController::class)->group(function () {
     Route::get('/login', 'showLogin')->name('login');
     Route::post('/login', 'login');
     Route::post('/register', 'create')->name('register');
+<<<<<<< HEAD
     Route::get('/logout', 'logout')->name('logout');
+=======
+    Route::post('/logout', 'logout')->name('logout');
+>>>>>>> a4a77b3af6d2c5d30105a896be75a68bf9de411b
 });
 
 /*
@@ -38,9 +42,12 @@ Route::get('/get-started', function () {
     return view('get-started');
 })->name('getStarted');
 
+<<<<<<< HEAD
 Route::get('/home', function () {
     return view('home');
 })->name('homePage');
+=======
+>>>>>>> a4a77b3af6d2c5d30105a896be75a68bf9de411b
 
 Route::get('/learn-more', function () {
     return view('learn-more');

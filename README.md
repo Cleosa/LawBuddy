@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> a4a77b3af6d2c5d30105a896be75a68bf9de411b
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
@@ -64,3 +68,10 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+<<<<<<< HEAD
+=======
+=======
+# LawBuddy
+Sebuah chat bot berbasis gemini yang membantu anda dibidang hukum
+>>>>>>> a94729f91f1e44fd76ecbca428673c5567a5fd86
+>>>>>>> a4a77b3af6d2c5d30105a896be75a68bf9de411b
